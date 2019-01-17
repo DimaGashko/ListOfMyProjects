@@ -1,5 +1,13 @@
 # List Of My Projects:
 
+## PacmanCPP (C++)
+
+- Description: Pacman written in C++ using SFML library
+- GitHub: https://github.com/DimaGashko/PacmanCPP
+- YouTube: https://youtu.be/XfgQP0AOVUk
+
+![Screenshot](https://github.com/DimaGashko/PacmanCPP/blob/master/presentation/screenshot.png)
+
 ## Other
 
 ### FigureCPP (C++)
