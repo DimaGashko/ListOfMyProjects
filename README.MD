@@ -2,8 +2,8 @@
 
 ## Hunter-2d.tk
 
-- Lang & tech: JavaScript (VanillaJs), Gulp, css (sass), html (jade)
-- Description: 2d game in JavaScript
+- Lang & tech: JavaScript (VanillaJs), Gulp, CSS (SASS), HTML (Jade)
+- Description: 2d game in VanillaJs
 - GitHub: https://github.com/DimaGashko/Hunter
 - YouTube: https://youtu.be/qnyXyxT71vg
 
