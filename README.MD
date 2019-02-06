@@ -36,6 +36,7 @@
 - Description: Just testing Perlin Noise function
 - GitHub: https://github.com/DimaGashko/Perlin-Noise-Test
 - YouTube: https://youtu.be/R1N1Cstmp68
+- Site: http://js-coder.tk/projects/perlin-noise/
 
 ![Screenshot](https://github.com/DimaGashko/Perlin-Noise-Test/blob/master/screenshots/images/0.jpg)
 
