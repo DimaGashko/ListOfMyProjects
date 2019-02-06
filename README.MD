@@ -1,4 +1,4 @@
-# List Of My Projects:
+# List Of My Projects
 
 ## PacmanCPP
 
@@ -20,6 +20,15 @@
 
 ## Other
 
+### Perlin Noise Test
+
+- Lang & tech: JavaScript (TypeScript), Canvas, Pug, Sass, Webpack
+- Description: Just testing Perlin Noise function
+- GitHub: https://github.com/DimaGashko/Perlin-Noise-Test
+- YouTube: https://youtu.be/R1N1Cstmp68
+
+![Screenshot](https://github.com/DimaGashko/Perlin-Noise-Test/blob/master/screenshots/images/0.jpg)
+
 ### FigureCPP
 
 - Lang & tech: C++, SFML
@@ -28,4 +37,3 @@
 - YouTube: https://youtu.be/J8gZULKrk3M
 
 ![Screenshot](https://github.com/DimaGashko/FigureCPP/blob/master/presentation/screenshot.png)
-
