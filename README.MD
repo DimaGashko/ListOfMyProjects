@@ -1,5 +1,15 @@
 # List Of My Projects
 
+## Hunter-2d.tk
+
+- Lang & tech: JavaScript (VanillaJs), Gulp, CSS (SASS), HTML (Jade)
+- Description: 2d game in VanillaJs
+- GitHub: https://github.com/DimaGashko/Hunter
+- YouTube: https://youtu.be/qnyXyxT71vg
+- Site: http://hunter-2d.tk
+
+![Screenshot](https://github.com/DimaGashko/hunter/blob/master/modeling/screenshots/1-present.png)
+
 ## PacmanCPP
 
 - Lang & tech: C++, SFML
