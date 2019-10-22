@@ -4,7 +4,7 @@ Some another of my projects you can find here https://github.com/DimaGashko and 
 
 ## Computer Graphics
 
-- GiHub: [Computer Graphics](https://github.com/DimaGashko/computer-graphics)
+- GitHub: [Computer Graphics](https://github.com/DimaGashko/computer-graphics)
 - Check it out: https://js-coder.tk/computer-graphics/3d/
 - YouTube: https://youtu.be/zXDDdbCWFTk
 
