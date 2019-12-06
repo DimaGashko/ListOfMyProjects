@@ -10,7 +10,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 
 ![Computer Graphics Screenshot](https://github.com/DimaGashko/computer-graphics/blob/master/3d/src/assets/3d.png)
 
-### Lang & techs
+### Langs & techs
 
 - TypeScript, Pug, Scss
 - WebGL (vanilla WebGL, no other libraries for drawing)
@@ -30,7 +30,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 
 ## PacmanCPP
 
-- Lang & techs: C++, SFML
+- Langs & techs: C++, SFML
 - Description: Pacman written in C++ using SFML library
 - GitHub: https://github.com/DimaGashko/PacmanCPP
 - YouTube: https://youtu.be/XfgQP0AOVUk
@@ -39,7 +39,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 
 ## ELib - your world of books
 
-- Lang & techs: Java, JFoenix, CSS (SASS), FXML
+- Langs & techs: Java, JFoenix, CSS (SASS), FXML
 - Description: Simple java app with material design
 - GitHub: https://github.com/DimaGashko/ELibJava
 - YouTube: https://youtu.be/OgBQY0YI-40
@@ -50,7 +50,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 
 ### Perlin Noise Test
 
-- Lang & techs: JavaScript (TypeScript), Canvas, Pug, Sass, Webpack
+- Langs & techs: JavaScript (TypeScript), Canvas, Pug, Sass, Webpack
 - Description: Just Perlin Noise testing
 - GitHub: https://github.com/DimaGashko/Perlin-Noise-Test
 - YouTube: https://youtu.be/R1N1Cstmp68
@@ -60,7 +60,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 
 ### Character Frequency Counter
 
-- Lang & tech: TypeScript, Pug, Scss, Parsel, Chart.js, Mobile First
+- Langs & techs: TypeScript, Pug, Scss, Parsel, Chart.js, Mobile First
 - Description: Type any text and see character frequency of that text
 - GitHub: https://github.com/DimaGashko/frequency-counter
 - Check it out: https://dimagashko.github.io/frequency-counter/
@@ -70,7 +70,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 
 ### FigureCPP
 
-- Lang & tech: C++, SFML
+- Langs & techs: C++, SFML
 - Description: My first graphical C++ application
 - GitHub: https://github.com/DimaGashko/FigureCPP
 - YouTube: https://youtu.be/J8gZULKrk3M
