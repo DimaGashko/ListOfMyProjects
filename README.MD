@@ -24,7 +24,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 - Description: 2d game in VanillaJs
 - GitHub: https://github.com/DimaGashko/Hunter
 - YouTube: https://youtu.be/qnyXyxT71vg
-- Site: http://hunter-2d.tk
+- Check it out: http://hunter-2d.tk
 
 ![Hunte 2d Screenshot](https://github.com/DimaGashko/hunter/blob/master/modeling/screenshots/1-present.png)
 
@@ -54,7 +54,7 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 - Description: Just Perlin Noise testing
 - GitHub: https://github.com/DimaGashko/Perlin-Noise-Test
 - YouTube: https://youtu.be/R1N1Cstmp68
-- Site: http://js-coder.tk/projects/perlin-noise/
+- Check it out: http://js-coder.tk/projects/perlin-noise/
 
 ![Perlin Noise Test Screenshot](https://github.com/DimaGashko/Perlin-Noise-Test/blob/master/screenshots/images/0.jpg)
 
