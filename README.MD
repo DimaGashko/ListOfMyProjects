@@ -1,6 +1,6 @@
 # List Of My Projects
 
-Some another of my projects you can find here https://github.com/DimaGashko and here  https://www.weblancer.net/users/DimaGashko/portfolio/
+Some other my projects you can find here https://github.com/DimaGashko and here  https://www.weblancer.net/users/DimaGashko/portfolio/
 
 ## Computer Graphics
 
