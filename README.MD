@@ -6,7 +6,7 @@
 - Description: 2d game in VanillaJs
 - GitHub: https://github.com/DimaGashko/Hunter
 - YouTube: https://youtu.be/qnyXyxT71vg
-- Site: http://hunter-2d.tk
+- Check it out: http://hunter-2d.tk
 
 ![Screenshot](https://github.com/DimaGashko/hunter/blob/master/modeling/screenshots/1-present.png)
 
@@ -33,12 +33,21 @@
 ### Perlin Noise Test
 
 - Lang & tech: JavaScript (TypeScript), Canvas, Pug, Sass, Webpack
-- Description: Just testing Perlin Noise function
+- Description: Just Perlin Noise testing
 - GitHub: https://github.com/DimaGashko/Perlin-Noise-Test
 - YouTube: https://youtu.be/R1N1Cstmp68
-- Site: http://js-coder.tk/projects/perlin-noise/
+- Check it out: http://js-coder.tk/projects/perlin-noise/
 
 ![Screenshot](https://github.com/DimaGashko/Perlin-Noise-Test/blob/master/screenshots/images/0.jpg)
+
+### Character Frequency Counter
+
+- Lang & tech: TypeScript, Pug, Scss, Parsel, Chart.js, Mobile First
+- Description: Type any text and see character frequency of that text
+- GitHub: https://github.com/DimaGashko/frequency-counter
+- Check it out: https://dimagashko.github.io/frequency-counter/
+
+![Screenshot](https://github.com/DimaGashko/frequency-counter/blob/master/src/img/frequency-counter.jpg)
 
 ### FigureCPP
 
