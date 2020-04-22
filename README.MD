@@ -1,7 +1,5 @@
 # List Of My Projects
 
-Some other my projects you can find here https://github.com/DimaGashko and here  https://www.weblancer.net/users/DimaGashko/portfolio/
-
 ## Computer Graphics
 
 - GitHub: [Computer Graphics](https://github.com/DimaGashko/computer-graphics)
@@ -76,3 +74,6 @@ Some other my projects you can find here https://github.com/DimaGashko and here 
 - YouTube: https://youtu.be/J8gZULKrk3M
 
 ![FigureCPP Screenshot](https://github.com/DimaGashko/FigureCPP/blob/master/presentation/screenshot.png)
+
+---
+Some other my projects you can find here https://github.com/DimaGashko and here  https://www.weblancer.net/users/DimaGashko/portfolio/
